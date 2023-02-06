@@ -115,3 +115,21 @@ main {
     font-size: 20px;
     color: #474747;
 }
+
+/* what I Do styles */
+.what-i-do {
+    margin-top: 130px;
+}
+
+.skills-container {
+    display: flex;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.skill-description {
+    color: #757575;
+}
